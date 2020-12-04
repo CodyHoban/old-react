@@ -1,0 +1,22 @@
+.searchBar {
+    margin: 20px;
+    text-align: center;
+}
+
+.viedoItem img {
+    max-width: 64px;
+}
+
+.videoDetail .details {
+    margin-top: 10;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+.list-group-item:hover {
+    background-color: #eee;
+}
